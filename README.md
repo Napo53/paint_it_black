@@ -1,2 +1,2 @@
 # paint_it_black
-A pygame miniproject
+This is a simple minigame. Requires pygame
